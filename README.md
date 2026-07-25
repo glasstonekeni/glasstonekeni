@@ -1,49 +1,119 @@
-<h1 align="center">Hi 👋, I'm K S Glasstone Keni</h1>
+<h1 align="center">
+  Hi 👋, I'm Glasstone Keni
+</h1>
+
+<h3 align="center">
+  Java Developer • Python Programmer • AI & Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Full+Stack+Developer;Frontend+Developer;Always+Learning+New+Technologies!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Java+Developer;Python+Programmer;AI+%7C+Machine+Learning+Enthusiast;Building+Projects+and+Learning+Every+Day;Open+Source+Learner" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NlaXN4NWEwYjBycGx0MnE0d3lzb2gxYmxndGg0NWxzb3FoNWV4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="550"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+```java
+public class Glasstone {
 
-🌱 I'm currently learning **HTML, CSS, JavaScript and Python**
+    String role = "Student & Developer";
 
-💻 Passionate about **Web Development**
+    String[] languages = {
+        "Java",
+        "Python",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    };
 
-🚀 My goal is to become a **Full Stack Developer**
+    String[] interests = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Development",
+        "Open Source"
+    };
 
-📚 I love learning new technologies every day.
+    String currentFocus =
+        "Java + Python + AI/ML";
 
-⚡ Fun Fact: I enjoy coding, typing games, and building creative projects.
-
-📫 Reach me on GitHub:
-**https://github.com/glasstonekeni**
+    String goal =
+        "Become an AI Engineer & Full Stack Developer";
+}
+```
 
 ---
 
 # 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux" />
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 ---
 
-# 📈 GitHub Stats
+### AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+</p>
+
+---
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=intellij"/>
+
+<img src="https://skillicons.dev/icons?i=eclipse"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=glasstonekeni&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=glasstonekeni&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glasstonekeni&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glasstonekeni&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -59,17 +129,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=glasstonekeni&theme=tokyonight&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -79,43 +139,53 @@
 
 ---
 
-# 🌍 Connect with Me
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<a href="https://github.com/glasstonekeni">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=glasstonekeni&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
+
+---
+
+# 📚 Currently Learning
+
+- ☕ Advanced Java
+- 🐍 Python for Data Science
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Data Structures & Algorithms
+- ⚡ Spring Boot
+- 🌐 REST APIs
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Java
+- ✅ Build AI projects
+- ✅ Learn Spring Boot
+- ✅ Contribute to Open Source
+- ✅ Solve 500+ coding problems
+- ✅ Deploy ML applications
+- ✅ Build a personal portfolio
+
+---
+
+# 💻 Favourite Quote
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+
+— Harold Abelson
 
 ---
 
 # 🐍 Contribution Snake
 
-> Enable this later using GitHub Actions.
-
-```text
-https://raw.githubusercontent.com/glasstonekeni/glasstonekeni/output/github-contribution-grid-snake.svg
-```
-
-Then use:
-
 ```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/glasstonekeni/glasstonekeni/output/github-contribution-grid-snake.svg"/>
-</p>
+<img src="https://raw.githubusercontent.com/glasstonekeni/glasstonekeni/output/github-contribution-grid-snake.svg">
 ```
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -123,16 +193,14 @@ Then use:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=glasstonekeni&label=Visitors&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=glasstonekeni&style=for-the-badge&color=blue"/>
 
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+
 </p>
