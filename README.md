@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Glasstone Keni</h1>
+<h1 align="center">Hi 👋, I'm K S Glasstone Keni</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Full+Stack+Developer;Frontend+Developer;Always+Learning+New+Technologies!"/>
