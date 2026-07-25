@@ -1,6 +1,10 @@
-<h1 align="center">Hi there, I'm Glasstone Keni K S 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:ED8B00&height=180&section=header&text=Glasstone%20Keni%20K%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20%26%20Full-Stack%20Enthusiast&descAlignY=58&descSize=18" />
 
-<h3 align="center">Java Developer | Backend & Full-Stack Enthusiast | Final-Year CSE Student</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student+%40+Jeppiaar+Engineering+College;Java+%7C+Spring+Boot+%7C+Backend+Development;Building+full-stack+systems%2C+one+commit+at+a+time" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/glasstone-46a19a331">
@@ -92,6 +96,17 @@ A full-stack Flask web app that manages student marks across subjects and terms,
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/glasstonekeni/glasstonekeni/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake (dark)" />
+  <img src="https://raw.githubusercontent.com/glasstonekeni/glasstonekeni/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake (light)" />
+</p>
+
+> ⚙️ This animation is generated automatically by a GitHub Action (`.github/workflows/snake.yml`) that eats through my contribution graph. See the setup note below the stats section for how to activate it.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -106,3 +121,17 @@ A full-stack Flask web app that manages student marks across subjects and terms,
 ---
 
 <p align="center"><i>Thanks for stopping by! Feel free to explore my repositories and connect with me.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:0077B5&height=120&section=footer" />
+
+<!--
+  🔧 Snake setup (one-time):
+  1. Create a repo named exactly "glasstonekeni" (same as your GitHub username) — this is your profile repo.
+  2. Put this README.md and the .github/workflows/snake.yml file in it, then push.
+  3. Go to the repo's Settings → Actions → General → under "Workflow permissions" select
+     "Read and write permissions", then save.
+  4. Go to the Actions tab, select "Generate Snake Animation", and click "Run workflow" once
+     to generate it immediately (it will also run automatically every day after that).
+  5. After the first run, a new "output" branch appears with the generated SVGs, and the
+     snake will show up in your README within a minute or two.
+-->
