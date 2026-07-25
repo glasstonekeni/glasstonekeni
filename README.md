@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:ED8B00&height=180&section=header&text=Glasstone%20Keni%20K%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20%26%20Full-Stack%20Enthusiast&descAlignY=58&descSize=18" />
+<img width="100%" src="assets/banner-header.svg" alt="Glasstone Keni K S — Java Developer | Backend & Full-Stack Enthusiast" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -122,7 +122,7 @@ A full-stack Flask web app that manages student marks across subjects and terms,
 
 <p align="center"><i>Thanks for stopping by! Feel free to explore my repositories and connect with me.</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:0077B5&height=120&section=footer" />
+<img width="100%" src="assets/banner-footer.svg" alt="" />
 
 <!--
   🔧 Snake setup (one-time):
