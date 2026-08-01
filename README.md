@@ -1,16 +1,17 @@
-<img width="100%" src="assets/banner-header.svg" alt="Glasstone Keni K S — Python Developer | Backend & Full-Stack Enthusiast" />
+<img width="100%" src="assets/banner-header.svg" alt="Glasstone Keni K S - Python Developer | Full-Stack Enthusiast" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student+%40+Jeppiaar+Engineering+College;Java+%7C+Spring+Boot+%7C+Backend+Development;Building+full-stack+systems%2C+one+commit+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student;Python+Developer;Python+%7C+Angular+%7C+Full-Stack+Development;Building+full-stack+systems%2C+one+commit+at+a+time" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/glasstone-46a19a331">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:glasstone203@gmail.com">
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -19,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **B.E. Computer Science & Engineering** student at **Jeppiaar Engineering College**, Chennai (Class of 2027)
+- 🎓 final-year **B.E. Computer Science & Engineering** student at **Jeppiaar Engineering College**, Chennai (Class of 2027)
 - 💻 Strong foundation in **Python** , with hands-on experience across the backend and full stack
 - 🔧 Comfortable building systems end-to-end — from database schema design and REST APIs to multi-threaded backend logic and GUI development
 - 🐍 Also work with **Python** for backend and data-driven applications (Flask, SQLAlchemy)
