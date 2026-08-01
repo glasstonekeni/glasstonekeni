@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student;Python+Developer;Python+%7C+Angular+%7C+Full-Stack+Development;Building+full-stack+systems%2C+one+commit+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student @Jeppiaar engineering college;Python+Developer;Python+%7C+Angular+%7C+Full-Stack+Development;Building+full-stack+systems%2C+one+commit+at+a+time" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 final-year **B.E. Computer Science & Engineering** student at **Jeppiaar Engineering College**, Chennai (Class of 2027)
+- 🎓 Final-year **B.E. Computer Science & Engineering** student at **Jeppiaar Engineering College**, Chennai (Class of 2027)
 - 💻 Strong foundation in **Python** , with hands-on experience across the backend and full stack
 - 🔧 Comfortable building systems end-to-end — from database schema design and REST APIs to multi-threaded backend logic and GUI development
 - 🐍 Also work with **Python** for backend and data-driven applications (Flask, SQLAlchemy)
