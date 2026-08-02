@@ -33,7 +33,11 @@
 
 **Languages**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<img width="16" height="16" src="https://img.icons8.com/small/16/html.png" alt="html"/>
+<img width="100" height="100" src="https://img.icons8.com/comic/100/css.png" alt="css"/>
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/>
+<img width="100" height="100" src="https://img.icons8.com/matisse/100/sql.png" alt="sql"/>
+![Angular]<img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 <img width="50" height="50" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
